@@ -166,7 +166,6 @@ def choice(w, end, p, grid):
     repairing(traveled[0], Constants.OBSTACLES, traveled[1], end, w)
     pygame.display.update()
 
-# main function
 def main():
     surface.fill(Constants.BLACK)
     text()
@@ -183,3 +182,4 @@ def main():
 
 pygame.init()
 surface = pygame.display.set_mode((Constants.WIDTH + 200, Constants.HEIGHT))
+main()
