@@ -11,4 +11,4 @@ plus h (manhattan distance) or, will be navigated alongside a weight (w0) for it
 
 To run it, either visit the repl.it page, or download the files and run visualization.py.
 
-Sample output ![](ARAstar_Baclig.gif)
+**Sample output** ![](ARAstar_Baclig.gif)
